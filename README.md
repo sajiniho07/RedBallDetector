@@ -15,7 +15,7 @@ Red circle center location(x, y) is: (148, 78)
 Detected Circles Count: 12
 ```
 
-![sample](https://github.com/sajiniho07/WebCamViwer/blob/master/res/output-sample.png)
+![sample](https://github.com/sajiniho07/RedBallDetector/blob/master/res/output-sample.png)
 
 ## Requirements ##
 
